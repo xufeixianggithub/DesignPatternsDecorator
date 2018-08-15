@@ -10,5 +10,6 @@ public class client {
         ConcreteDecoratorA a=new ConcreteDecoratorA(c);
         ConcreteDecoratorB b=new ConcreteDecoratorB(a);
         b.operation();
+        //jjj
     }
 }
